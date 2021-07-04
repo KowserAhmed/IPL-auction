@@ -1,0 +1,16 @@
+
+.player-list{
+    width:200px;
+    border:1px dotted rosybrown;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 7px;
+}
+.player img{
+    width: 180px;
+    border-radius: 5px;
+}
+.button-style{
+    width: 80px;
+}

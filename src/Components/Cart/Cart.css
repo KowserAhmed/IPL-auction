@@ -1,0 +1,16 @@
+.selected-player{
+    display: flex;
+   background-color: black;
+   color: white;
+   margin: 10px;
+
+
+}
+.selected-player img{
+    width: 40px;
+    padding: 5px;
+}
+.selected-player h4{
+    margin-left: 5px;
+    padding: 5px;
+}
