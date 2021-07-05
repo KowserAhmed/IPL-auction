@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect, useState } from 'react';
 import Player from './Components/Player/Player'
 import Cart from './Components/Cart/Cart';
 import Head from './Components/Head/Head';
-
 
 
 
